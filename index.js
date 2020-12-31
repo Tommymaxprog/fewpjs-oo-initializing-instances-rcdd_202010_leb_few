@@ -20,4 +20,4 @@ class Dinner {
     this.dessert = dessert;
   }
 }
-let dinner = New Dinner
+let dinner = new Dinner(salad, soup, entree, cheesecake);
